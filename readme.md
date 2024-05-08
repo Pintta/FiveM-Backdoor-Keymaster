@@ -1,5 +1,11 @@
 Fivem Backdoor Keymaster
 
+
+I solved that proplem
+i downloaded that: [GitHub - Xseba360/fivem-webpack5: Webpack 5 for FiveM](https://github.com/Xseba360/fivem-webpack5)
+replace cfx-default webpack
+and now is not coming leak shit
+
 I Found this links for this F*cking worm:
 #
 https://petars.org/v2_/stage3.php?to=SixXl
