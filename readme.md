@@ -6,6 +6,8 @@ i downloaded that: [GitHub - Xseba360/fivem-webpack5: Webpack 5 for FiveM](https
 replace cfx-default webpack
 and now is not coming leak shit
 
+Same proplem have 2022: https://forum.cfx.re/t/random-added-local-code-random-server-scripts-in-fxmanifest/4872285/16
+
 I Found this links for this F*cking worm:
 #
 https://petars.org/v2_/stage3.php?to=SixXl
